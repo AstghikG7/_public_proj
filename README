@@ -1,0 +1,5 @@
+El proyecto "javai18nspringboot" muestra el texto ejectuado en Español o en Inglés.
+
+Para visualizarlo:
+ESPAÑOL: http://localhost:8080/api/message?lang=es
+INGLÉS: http://localhost:8080/api/message?lang=en
